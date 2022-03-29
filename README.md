@@ -1,1 +1,3 @@
-Proyecto-1-ML
+Nicolas Segura Castro
+Jaime Torres Lopez
+David Ruiz Villota
